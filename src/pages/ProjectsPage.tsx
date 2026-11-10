@@ -189,7 +189,7 @@ export const ProjectsPage: React.FC = () => {
                     <ChromeButton
                       variant="outline"
                       size="md"
-                      href={featured.githubUrl}
+                      href="https://ellenco-backend.onrender.com/"
                       target="_blank"
                       icon={<GithubIcon className="w-4 h-4" />}
                     >
