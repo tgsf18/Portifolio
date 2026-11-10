@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap indexation for search engines (Google, Bing, etc.)
+Sitemap: https://thiagosouza.dev/sitemap.xml
