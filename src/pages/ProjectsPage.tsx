@@ -183,7 +183,7 @@ export const ProjectsPage: React.FC = () => {
                       target="_blank"
                       icon={<ExternalLink className="w-4 h-4" />}
                     >
-                      Aplicação ao Vivo (onrender.com)
+                      Aplicação ao Vivo ("https://ellenco-backend.onrender.com/")
                     </ChromeButton>
 
                     <ChromeButton
